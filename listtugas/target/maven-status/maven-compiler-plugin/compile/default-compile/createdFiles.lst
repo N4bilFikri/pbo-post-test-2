@@ -1,0 +1,4 @@
+model\Task.class
+controller\TaskController.class
+view\TaskView.class
+com\listtugas\Listtugas.class
